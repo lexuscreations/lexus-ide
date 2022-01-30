@@ -3,5 +3,5 @@ karya_pragati_par_hai | work in progress | online free openSource multilingual c
 
 ```
 initial commit - first release
-pending [ ..., ui enhancement | features extension | if(err) res.send(err) not working | ide-addMoreLanguages | compiler-for-deployment, how to, way find pending r&d ]
+let pending = [ ...etc, "ui enhancement", "features extension", "if(err-in-req.body_code) res.send(err) not working", "ide-addMoreLanguages", "compiler-for-deployment - how to, way find pending r&d" ]
 ```
