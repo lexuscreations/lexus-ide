@@ -1,0 +1,41 @@
+.editor__control-panel {
+    background: lightgray;
+    text-align: right;
+    padding: 4px;
+    font-family: sans-serif;
+}
+
+.editor__controllOptions {
+    background: #fff;
+    border: 1px solid gray;
+}
+
+.CodeMirror.CodeMirror-wrap {
+    height: 400px;
+}
+
+.editor__run_button-container {
+    text-align: right;
+    padding: 4px;
+}
+
+
+.edtr_submt_run_btn {
+    background: #79c2bc;
+    color: #fff;
+    padding: 8px;
+    border: 0;
+    cursor: pointer;
+    transition: 0.3s;
+    font-weight: bolder;
+}
+
+.edtr_submt_run_btn:hover {
+    background: #638f8b;
+    color: #000;
+}
+
+.edtr_submt_run_btn:active {
+    padding: 7px;
+    background: #374644;
+}
